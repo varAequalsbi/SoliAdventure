@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - NPC
+  - Goal
   layers:
   - Default
   - TransparentFX
@@ -51,6 +52,12 @@ TagManager:
   - name: Train
     uniqueID: 4250941897
     locked: 0
+  - name: OverPlayer
+    uniqueID: 1263281283
+    locked: 0
   - name: Player
     uniqueID: 4189426099
+    locked: 0
+  - name: SomeObject that player can went trough but not able to seek trough
+    uniqueID: 1552027475
     locked: 0
